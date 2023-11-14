@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Make me a single page website that pulls random data from a Pokemon API and displays 10 Pokemon at random.","md5":"7a56959003dcb354d865c31e3e671ceb"}]}
